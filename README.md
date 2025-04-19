@@ -35,6 +35,7 @@ This project uses **open event-level data from StatsBomb**, retrieved using the 
   - ROC curve visualization and metric comparison
 
 - **`DS340W_Modified_Code.ipynb`** – Early version containing modular platform setup and passing network visualizations.
+- **`soccer_analytics_handbook.ipynb`** - Parent Paer original Code
 
 ---
 
