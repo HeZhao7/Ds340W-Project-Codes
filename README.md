@@ -4,7 +4,6 @@ This GitHub repository is for academic purposes only. The materials uploaded her
 
 **Course**: DS 340W – Applied Data Science (Spring 2025)  
 **Project Title**: *Pass Probability Prediction: A Data-Driven Approach to Soccer Analysis*  
-**Author**: Haozhe Shan (Simon)
 
 ---
 
@@ -51,52 +50,8 @@ This model is inspired by the parent paper **SoccerMap** [1], which uses deep le
 
 ---
 
-## 📈 Key Results
-
-| Metric        | World Cup Final (Train/Test) | Group Stage Transfer Test |
-|---------------|------------------------------|----------------------------|
-| Accuracy      | 0.835                        | 0.849                      |
-| Precision     | 0.891                        | 0.882                      |
-| Recall        | 0.913                        | 0.939                      |
-| F1 Score      | 0.902                        | 0.910                      |
-
-These results highlight the **strong generalization ability** of our pass success model, even across different teams and match contexts.
-
----
-
-## 🧪 Techniques Used
-
-- **Machine Learning Models**: XGBoost, Logistic Regression  
-- **Evaluation**: Accuracy, Precision, Recall, F1 Score  
-- **Visualization**: mplsoccer passing plots, heatmaps, ROC curves  
-- **Tools**: Python, pandas, matplotlib, scikit-learn, statsbombpy
-
----
-
-## 📄 Final Deliverables
-
-| File | Description |
-|------|-------------|
-| `DS340W_Final_Code.ipynb` | Final modular code with models, visualizations, and reproducibility |
-| `Final_Report.docx` | Full research paper in IEEE format |
-| `Final_Presentation.pptx` | 10–15 minute PowerPoint presentation |
-| `Kaltura Link` | Final recorded oral presentation (link unlisted) |
-
----
-
 ## 📚 References
 
 [1] Fernández, J., & Bornn, L. (2020). SoccerMap: A Deep Learning Architecture for Visually Interpretable Analysis in Soccer. [arXiv link](https://arxiv.org/abs/2010.10202)
 
 ---
-
-## 👨‍🎓 Author
-
-**Haozhe Shan (Simon)**  
-Senior, Applied Statistics  
-The Pennsylvania State University  
-📫 Contact: your_email@psu.edu
-
----
-
-> *This repository showcases a simplified, interpretable, and transferable ML-based approach for spatial analysis in modern soccer analytics.*
