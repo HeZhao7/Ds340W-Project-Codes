@@ -38,7 +38,7 @@ This project uses **open event-level data from StatsBomb**, retrieved using the 
 - **`soccer_analytics_handbook.ipynb`** - Parent Paer original Code
 
 - 🚀 Run This Project on Google Colab
-You can directly open and run the final notebook in Google Colab by clicking the button below:
+You can directly open and run the final notebook in Google Colab by clicking the link:
 https://colab.research.google.com/drive/1MBc9GSUg2ibZyA283o1Iwrej0Btx_sBe?usp=sharing 
 
 ---
